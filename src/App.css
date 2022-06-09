@@ -60,7 +60,7 @@ header i {
 }
 .separator::before {
   font-size: 19px;
-  content: "Details";
+ 
   color: #ccc;
   padding: 0 15px;
   background: #fff;
